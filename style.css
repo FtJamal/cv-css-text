@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(215, 209, 201);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    margin: zero;
+    text-align: center;
+    font-size: 40px;
+    font-stretch: expanded;
+    font-weight: bolder;
+
+    background-color: rgb(35, 109, 120);
+    color: rgb(184, 239, 243);
+    text-decoration: underline;
+    /* color:  rgb(215, 209, 201);; */
+}
+
+
+#top {
+    background-color: rgb(35, 109, 120);
+}
+
+.address {
+    text-align: center;
+    /* color: rgb(3, 61, 70); */
+    color:  rgb(215, 209, 201);
+    /* color:rgb(184, 239, 243) ; */
+
+}
+
+.email a:link {
+
+    text-decoration: none;
+    color: rgb(3, 61, 70);
+/* color:rgb(184, 239, 243) ; */
+color:  rgb(215, 209, 201)
+}
+.email a:hover {
+    /* color: white; */
+    /* color: rgb(3, 61, 70); */
+    /* color: rgb(184, 239, 243); */
+    color: rgb(219, 151, 40)
+}
+
+.email a:visited {
+    /* color: rgb(219, 151, 40) */
+    color: rgb(184, 239, 243);}
+
+p {
+    text-transform: capitalize;
+    color: rgb(3, 61, 70);
+    text-indent: 50px;
+}
+
+.list {
+    color: rgb(219, 151, 40);
+    text-decoration: none;
+}
+
+.two {
+
+    font-style: italic;
+}
+
+.five {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.one {
+
+    /* text-transform: capitalize; */
+    color: rgb(35, 109, 120);
+    font-size: 25px;
+    font-style: italic;
+    text-decoration-color: rgb(35, 109, 120);
+    text-decoration: underline;
+text-transform: uppercase;
+/* font-weight: bolder; */
+/* text-decoration: double; */
+}
